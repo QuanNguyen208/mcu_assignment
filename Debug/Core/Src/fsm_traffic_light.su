@@ -1,0 +1,4 @@
+../Core/Src/fsm_traffic_light.c:13:6:ResetButtonState	16	static
+../Core/Src/fsm_traffic_light.c:19:6:changeTime	4	static
+../Core/Src/fsm_traffic_light.c:26:6:fsm_row_traffic_light	8	static
+../Core/Src/fsm_traffic_light.c:294:6:fsm_col_traffic_light	8	static
